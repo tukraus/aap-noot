@@ -1,2 +1,2 @@
-excludes:
-- "*.js"
+exclude:
+- ".*.js"
