@@ -1,0 +1,6 @@
+exclude:
+- .*.xml
+- "ls -l".execute()
+component_depth: 1
+- name: Javascript
+  production:
